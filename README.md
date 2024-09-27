@@ -91,7 +91,7 @@ JSON Server para servir como backend falso._
 
 bash
 ```
-git clone https://github.com/seu-repositorio/react-top-cities.git
+git clone https://github.com/fmascena-dev/atividade4.git
 ```
 **Instale as dependências: Navegue até a pasta do projeto e execute:**
 
