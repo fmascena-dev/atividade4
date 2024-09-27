@@ -1,7 +1,7 @@
 ## Documentação do Projeto: Aplicação React - "As Melhores Cidades do Mundo e Cadastro!"
 
 #### 1. Introdução
-- Este documento descreve a estrutura e o funcionamento de uma aplicação React que exibe uma lista das 10 melhores cidades do mundo. A aplicação permite que os usuários visualizem uma lista de cidades, adicionem novas cidades por meio de um formulário, e conta com a utilização de diversos componentes React para modularidade e reutilização de código.
+- Este documento descreve a estrutura e o funcionamento de uma aplicação React que exibe uma lista das melhores cidades do mundo. A aplicação permite que os usuários visualizem uma lista de cidades, adicionem novas cidades por meio de um formulário, e conta com a utilização de diversos componentes React para modularidade e reutilização de código.
 
 #### 2. Estrutura do Projeto
 
