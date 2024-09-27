@@ -1,0 +1,15 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    background-color: #af3a57;
+    box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.5), -10px -5px 10px 5px rgba(255, 255, 255, 0.5);
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+footer a {
+    text-decoration: underline;
+    color:#FFFFFF;
+}

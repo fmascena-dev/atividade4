@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(71, 71, 71);
+}
+
+.container {
+  height: 100%;
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+
+.contact {
+  width: 100%;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.contact h2 {
+  margin-bottom: 15px;
+}
