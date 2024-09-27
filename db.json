@@ -69,6 +69,20 @@
       "country": "Turquia",
       "link": "https://www.tudosobreistambul.com",
       "id": "ee8f"
+    },
+    {
+      "id": "54c1",
+      "name": "Rio de Janeiro",
+      "foto": "https://jpimg.com.br/uploads/2023/05/turismo-no-rio-de-janeiro-veja-o-que-visitar-na-cidade-maravilhosa.jpg",
+      "country": "Brasil",
+      "link": "https://pt.wikipedia.org/wiki/Rio_de_Janeiro"
+    },
+    {
+      "id": "8bc7",
+      "name": "Havaí",
+      "foto": "https://i.natgeofe.com/n/75f2a750-9044-41c2-8f61-ccf1ec8710aa/waikki-beach-honolulu-hawaii.jpg",
+      "country": "EUA",
+      "link": "https://pt.wikipedia.org/wiki/Havaí"
     }
   ]
 }
