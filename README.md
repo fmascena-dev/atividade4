@@ -90,39 +90,42 @@ JSON Server para servir como backend falso._
 **Clone o repositório:**
 
 bash
-
+```
 git clone https://github.com/seu-repositorio/react-top-cities.git
-
+```
 **Instale as dependências: Navegue até a pasta do projeto e execute:**
 
 bash
-
+```
 npm install
+```
 
 ou
 
 bash
 
+```
 yarn install
+```
 
 **Rode o JSON Server (certifique-se de estar na pasta onde o arquivo db.json está localizado):**
 
 bash
-
+```
 json-server --watch db.json --port 3005
-
+```
 **Rode a aplicação React:**
 
 bash
-
+```
 npm start
-
+```
 ou
 
 bash
-
+```
 yarn start
-
+```
 **Acesse a aplicação:** _Abra o navegador e vá para http://localhost:3000 para visualizar a aplicação._
 
 #### 9. Considerações Finais
